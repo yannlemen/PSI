@@ -1,0 +1,33 @@
+.navigation a {
+  color: inherit;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+}
+  
+.navigation .is-active {
+  background-color: #000;
+  color: #fff;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-radius: 999px;
+}
+  
+.navigation__list {
+  list-style: none;
+  margin: -0.5em;
+  padding: 0;
+}
+  
+.navigation__list--inline {
+  display: flex;
+  justify-content: center;
+}
+  
+.navigation__item {
+  margin: 0.5em;
+}
+
+.image {
+  width: 80px;
+}

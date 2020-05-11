@@ -1,0 +1,40 @@
+
+.header {
+    margin-top: 0%;
+    height: 50px;
+}
+
+.action {
+    display: flex;
+    background-color: grey;
+    color: white;
+    height: 250px;
+    margin-top: 24px;
+}
+.ajouter {
+    width: 33%;
+    text-align: center;
+}
+
+.supprimer {
+    width: 33%;
+    text-align: center;
+}
+
+.api {
+    width: 33%;
+    text-align: center;
+}
+
+.result
+{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    height: 410px;
+    margin-top: -16px;
+}
+
+body{
+    background-color: turquoise;
+}

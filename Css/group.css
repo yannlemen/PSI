@@ -1,0 +1,41 @@
+.header {
+    margin-top: 0%;
+    height: 50px;
+}
+
+.action {
+    display: flex;
+    background-color: grey;
+    height: 250px;
+    color: white;
+}
+.ajouter {
+    width: 25%;
+    text-align: center;
+}
+
+.supprimer {
+    width: 25%;
+    text-align: center;
+}
+.modifier {
+    width: 25%;
+    text-align: center;
+}
+
+.extraire {
+    width: 25%;
+    text-align: center;
+}
+
+.result
+{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    height: 410px;
+}
+
+body{
+    background-color: turquoise;
+}
